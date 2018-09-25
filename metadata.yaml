@@ -1,11 +1,16 @@
 _repo: Chu-Ko-Pai-An-Ching-Chi_57248
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ling, Meng Chu
     gutenberg_agent_id: '49272'
     url: http://www.gutenberg.org/2009/agents/49272
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57248#Chu-Ko-Pai-An-Ching-Chi
 gutenberg_issued: '2018-06-02'
 gutenberg_type: Text
 identifiers:
